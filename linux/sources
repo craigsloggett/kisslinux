@@ -1,4 +1,4 @@
-https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.2.tar.xz
+https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.4.tar.xz
 patches/kernel-no-perl.patch
 files/config
 files/linuxx64.efi.stub
